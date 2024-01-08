@@ -1,0 +1,17 @@
+{
+  "name": "express-vercel",
+  "version": "0.1.0",
+  "description": "express vercel boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "now dev"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "vercel"
+  ],
+  "author": "Kizito Akhilome",
+  "license": "MIT"
+}
